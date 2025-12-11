@@ -116,6 +116,3 @@ The EKF also handled ~38% missing measurements in real-world testing by predicti
 **Import errors**
 - Make sure you installed `opencv-contrib-python` (not just `opencv-python`)
 
-## Author
-
-Ronit C. Virwani
