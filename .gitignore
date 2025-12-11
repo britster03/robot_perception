@@ -39,3 +39,4 @@ __pycache__/
 
 # Final report template (LaTeX source)
 final_report_template*/
+utils/
